@@ -29,8 +29,8 @@ A lightweight **FastAPI-based** broadcast system designed to send high-speed ema
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/5h0nu/simple-mailer-api.git](https://github.com/5h0nu/simple-mailer-api.git)
-    cd simple-mailer-api
+    git clone https://github.com/5h0nu/resend-email-smtp
+    cd resend-email-smtp
     ```
 
 2.  **Install Dependencies:**
