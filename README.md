@@ -54,3 +54,21 @@ Once the server is running, send a **POST** request to `/send-email`.
   "subject": "Important Academic Update",
   "message": "Hello! This is a broadcast message sent via Shonu's Mailer API."
 }
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="https://instagram.com/5h0nu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://threads.net/@5h0nu" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads" />
+  </a>
+  <a href="mailto:mdkhasimgs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=5h0nu&color=purple&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
