@@ -53,7 +53,7 @@ Once the server is running, send a **POST** request to `/send-email`.
   "to": ["student1@example.com", "student2@example.com"],
   "subject": "Important Academic Update",
   "message": "Hello! This is a broadcast message sent via Shonu's Mailer API."
-}
+} ```
 
 ### 📬 Connect with Me
 
