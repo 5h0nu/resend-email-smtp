@@ -4,7 +4,9 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend" />
-  <img src="https://img.shields.io/badge/MIT-License-green?style=for-the-badge" alt="License" />
+  <a href="https://github.com/5h0nu/resend-email-smtp/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/MIT-License-green?style=for-the-badge" alt="License" />
+  </a>
 </p>
 
 ---
